@@ -1,0 +1,6 @@
+{
+  "name": "ScamNLP - Localhost Scam Detection Engine for VS Code",
+  "description": "NLP-powered scam and phishing detection engine with real-time semantic analysis, localhost API endpoints, and complete VS Code extension integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
